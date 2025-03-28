@@ -1,0 +1,92 @@
+[
+  {
+    "id": "1",
+    "name": "Physics",
+    "class": "O level"
+  },
+  {
+    "id": "2",
+    "name": "Chemistry",
+    "class": "O level"
+  },
+  {
+    "id": "3",
+    "name": "Biology",
+    "class": "O level"
+  },
+  {
+    "id": "4",
+    "name": "Mathematics",
+    "class": "O level"
+  },
+  {
+    "id": "5",
+    "name": "English",
+    "class": "O level"
+  },
+  {
+    "id": "6",
+    "name": "Computer Science",
+    "class": "O level"
+  },
+  {
+    "id": "7",
+    "name": "Physics",
+    "class": "A level"
+  },
+  {
+    "id": "8",
+    "name": "Chemistry",
+    "class": "A level"
+  },
+  {
+    "id": "9",
+    "name": "Biology",
+    "class": "A level"
+  },
+  {
+    "id": "10",
+    "name": "Mathematics",
+    "class": "A level"
+  },
+  {
+    "id": "11",
+    "name": "Physics",
+    "class": "9"
+  },
+  {
+    "id": "12",
+    "name": "Chemistry",
+    "class": "9"
+  },
+  {
+    "id": "13",
+    "name": "Biology",
+    "class": "9"
+  },
+  {
+    "id": "14",
+    "name": "Mathematics",
+    "class": "9"
+  },
+  {
+    "id": "15",
+    "name": "Physics",
+    "class": "10"
+  },
+  {
+    "id": "16",
+    "name": "Chemistry",
+    "class": "10"
+  },
+  {
+    "id": "17",
+    "name": "Biology",
+    "class": "10"
+  },
+  {
+    "id": "18",
+    "name": "Mathematics",
+    "class": "10"
+  }
+]
