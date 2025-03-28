@@ -1,10 +1,5 @@
 [
   {
-    "id": "1",
-    "name": "O level",
-    "description": "O Level classes and subjects"
-  },
-  {
     "id": "2",
     "name": "A level",
     "description": "A Level classes and subjects"
