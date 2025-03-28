@@ -1,0 +1,22 @@
+[
+  {
+    "id": "1",
+    "name": "O level",
+    "description": "O Level classes and subjects"
+  },
+  {
+    "id": "2",
+    "name": "A level",
+    "description": "A Level classes and subjects"
+  },
+  {
+    "id": "3",
+    "name": "9",
+    "description": "Class 9 subjects and materials"
+  },
+  {
+    "id": "4",
+    "name": "10",
+    "description": "Class 10 subjects and materials"
+  }
+]
